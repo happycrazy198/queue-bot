@@ -1,0 +1,25 @@
+{
+    "geode": "2.0.0-beta.26",
+    "gd": {
+        "android": "2.205"
+    },
+    "version": "v0.0.1",
+    "id": "happycrazy197.queue.bot",
+    "name": "Queue bot",
+    "developer": "happycrazy197",
+    "description": "Queue bot for mobile streamers",
+    "repository": "https://github.com/happycrazy198/queue-bot/tree/wip_release",
+    "resources": {
+      "sprites": [
+        "resources/button.png"
+      ]
+    },
+    "settings": {
+        "NA-difficulty-disabled": {
+            "name": "Disable NA difficulty",
+            "description": "to disable NA difficulty from levels",
+            "type": "bool",
+            "default": false
+        }
+    }
+ }
